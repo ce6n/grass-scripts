@@ -1,4 +1,4 @@
 grass-scripts
 =============
 
-helpful scripts for grass his
+helpful scripts for grass hishelpful scripts for grass gis
